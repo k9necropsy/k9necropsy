@@ -8,10 +8,10 @@
 hiya my name is $$\color{red}renard$$
   </p>
   <p align="center">
-  i like <i><b>computers</b></i> & <i><b>coding</b></i>, i also draw but im bad at it
+  i like $$\color{green}computers$$ & $$\color{green}coding$$, i also draw but im bad at it
 </p>
   <p align="center">
-  i really enjoy <i><b>lapfox</b></i> & <i><b>mouthwashing</b></i> right now 
+  i really enjoy $$\color{green}lapfox$$ & $$\color{green}mouthwashing$$ right now 
   </p>
   <p align="center">
 <a href="https://music.youtube.com/@ectosprite">my youtube music</a>
